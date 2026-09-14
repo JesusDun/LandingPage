@@ -1,0 +1,28 @@
+{
+  "name": "PWA App",
+  "short_name": "PWA App",
+  "icons": [
+      {
+        "src": "/test/pwas/templatemo_623_novapay/favicon.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "/test/pwas/templatemo_623_novapay/favicon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/test/pwas/templatemo_623_novapay/favicon-maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+  ],
+  "id": "/test/pwas/templatemo_623_novapay/?source=pwa",
+  "start_url": "/test/pwas/templatemo_623_novapay/?source=pwa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#27B4F5",
+  "theme_color": "#27B4F5"
+}
